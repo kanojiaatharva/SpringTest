@@ -29,7 +29,7 @@ class MyApplicationTests {
         mockMvc.perform(get("/greeting"))
                 .andExpect(status().isOk())
                 .andDo(print())
-                .andExpect(content().string("{\"id\":1,\"content\":\"Hello, World!\"}"));
+                .andExpect(content().string("test{\"id\":1,\"content\":\"Hello, World!\"}"));
       
     }
 
