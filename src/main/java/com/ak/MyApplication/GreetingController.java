@@ -17,3 +17,5 @@ public class GreetingController {
 		return new Greeting(counter.incrementAndGet(), String.format(template, name));
 	}
 }
+
+//http://localhost:8080/greeting?name=Atharva
