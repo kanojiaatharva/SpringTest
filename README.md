@@ -9,8 +9,6 @@ This is a sample Spring Boot application that demonstrates basic setup and testi
 - Maven
 - Spring Boot Test
 
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
