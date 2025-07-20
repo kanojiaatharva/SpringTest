@@ -4,8 +4,8 @@ This is a sample Spring Boot application that demonstrates basic setup and testi
 
 ## 📦 Technologies Used
 
-- Java 
-- Spring Boot 3.x
+- Java 8
+- Spring Boot 2.5.3
 - Maven
 - Spring Boot Test
 
@@ -15,7 +15,7 @@ This is a sample Spring Boot application that demonstrates basic setup and testi
 
 ### Prerequisites
 
-- Java 
+- Java 8 or later
 - Maven installed
 
 
